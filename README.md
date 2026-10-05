@@ -239,9 +239,10 @@ Before opening a pull request:
 
 ## 📄 License
 
-A license has not yet been selected for this repository.
-
-Until a license is added, the code should not be assumed to be available for unrestricted reuse, modification, or redistribution.
+- The app is fully functional, but it is still a work in progress and has not been extensively refined or polished.
+- The current version focuses mainly on **per-application volume mixing**.
+- Feel free to use, experiment with, modify, and build upon the project however you like.
+- This project is primarily shared for **learning, experimentation, and personal use**.
 
 ## 👨‍💻 Author
 
